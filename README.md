@@ -1,4 +1,4 @@
-Lab assignments for MIT Course 6.S184: Generative AI with Stochastic Differential Equations
+# Lab assignments for MIT Course 6.S184: Generative AI with Stochastic Differential Equations
 
 # Lab One: Simulating ODEs and SDEs
 本实验主要学习**常微分方程（ODE）** 与**随机微分方程（SDE）** 的定义、数值解法与可视化，理解随机过程如何改变样本分布。
