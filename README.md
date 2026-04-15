@@ -25,7 +25,7 @@ $$dX_t = \sigma dW_t$$
 - 方程：
 $$dX_t = -\theta X_t dt + \sigma dW_t$$
 - 具有**均值回归**特性
-- 稳态分布：$N(0, \frac{\sigma^2}{2\theta})$
+- 稳态分布：\(N(0, \frac{\sigma^2}{2\theta})\)
 - 观察 $\theta$ 大小对回归速度的影响
 ### 3. 使用 SDE 变换分布（朗之万动力学）
 重点：**朗之万动力学** 可将样本逐步引导至目标分布 $\pi$
