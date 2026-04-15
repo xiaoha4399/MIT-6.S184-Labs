@@ -1,4 +1,3 @@
-<img width="913" height="793" alt="image" src="https://github.com/user-attachments/assets/eb07b51e-487e-418e-a164-451dc354ee1a" /># MIT-6.S184-Labs
 Lab assignments for MIT Course 6.S184: Generative AI with Stochastic Differential Equations
 
 # Lab One: Simulating ODEs and SDEs
