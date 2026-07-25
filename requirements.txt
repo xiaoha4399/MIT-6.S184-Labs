@@ -1,0 +1,15 @@
+# Dependencies for MIT 6.S184 Lab One (lab_one.ipynb)
+# CPU-only PyTorch is sufficient; the notebook falls back to CPU when CUDA is unavailable.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+numpy
+matplotlib
+seaborn
+tqdm
+celluloid
+ipython
+
+# Jupyter tooling used to run/execute the notebook
+jupyter
+ipykernel
+nbconvert
